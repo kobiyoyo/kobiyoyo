@@ -1,7 +1,5 @@
 ### Hi there,Am Chubiyojo Adama a Full Stack Developer 👋
 
-<!--
-**kobiyoyo/kobiyoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <pre>
