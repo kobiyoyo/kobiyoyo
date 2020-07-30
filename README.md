@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 <pre>
-- 🔭 I’m currently working on Rail & React Projects
+- 🔭 I’m currently working on Rails & React Projects
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Ruby on Rails & React projects
 - 🤔 I’m looking for a Job opportunity...
