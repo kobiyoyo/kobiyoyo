@@ -1,4 +1,4 @@
-### Hi there,I am Chubiyojo Adama a Full Stack Developer 👋
+### Hi there, I am Chubiyojo Adama a Full Stack Developer 👋
 
 
 Here are some ideas to get you started:
